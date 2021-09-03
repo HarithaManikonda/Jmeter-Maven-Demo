@@ -3,11 +3,5 @@ This is a demo project to invoke jmeter tests from maven
 
 mvn clean verify
 
--------------------------------------------------------
- P E R F O R M A N C E    T E S T    R E S U L T S
--------------------------------------------------------
-[INFO]  
-[INFO] Result (.csv) files scanned: 1
-[INFO] Successful requests:         1
-[INFO] Failed requests:             0
-[INFO] Failures:                    0.0% (0.0% accepted)
+![Screen Shot 2021-09-03 at 4 50 24 PM](https://user-images.githubusercontent.com/87215340/132075056-aeae90b5-29c1-4313-a4b4-46d3f543dcad.png)
+
